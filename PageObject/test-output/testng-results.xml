@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56812" started-at="2019-02-22T09:34:01Z" finished-at="2019-02-22T09:34:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56812" started-at="2019-02-22T09:34:01Z" finished-at="2019-02-22T09:34:57Z">
+      <class name="TestPage.LoginTestpage">
+        <test-method status="PASS" signature="test()[pri:0, instance:TestPage.LoginTestpage@d8355a8]" name="test" is-config="true" duration-ms="10695" started-at="2019-02-22T15:04:04Z" finished-at="2019-02-22T15:04:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="verifyLogin_Paage(java.lang.String, java.lang.String)[pri:0, instance:TestPage.LoginTestpage@d8355a8]" name="verifyLogin_Paage" duration-ms="2795" started-at="2019-02-22T15:04:14Z" data-provider="word" finished-at="2019-02-22T15:04:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vikash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vk123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin_Paage -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestPage.LoginTestpage@d8355a8]" name="TearDown" is-config="true" duration-ms="3282" started-at="2019-02-22T15:04:17Z" finished-at="2019-02-22T15:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="test()[pri:0, instance:TestPage.LoginTestpage@d8355a8]" name="test" is-config="true" duration-ms="7126" started-at="2019-02-22T15:04:20Z" finished-at="2019-02-22T15:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="verifyLogin_Paage(java.lang.String, java.lang.String)[pri:0, instance:TestPage.LoginTestpage@d8355a8]" name="verifyLogin_Paage" duration-ms="12148" started-at="2019-02-22T15:04:28Z" data-provider="word" finished-at="2019-02-22T15:04:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin_Paage -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestPage.LoginTestpage@d8355a8]" name="TearDown" is-config="true" duration-ms="3305" started-at="2019-02-22T15:04:40Z" finished-at="2019-02-22T15:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="test()[pri:0, instance:TestPage.LoginTestpage@d8355a8]" name="test" is-config="true" duration-ms="7089" started-at="2019-02-22T15:04:43Z" finished-at="2019-02-22T15:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="verifyLogin_Paage(java.lang.String, java.lang.String)[pri:0, instance:TestPage.LoginTestpage@d8355a8]" name="verifyLogin_Paage" duration-ms="4019" started-at="2019-02-22T15:04:50Z" data-provider="word" finished-at="2019-02-22T15:04:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rk@122]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fdhhhh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin_Paage -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestPage.LoginTestpage@d8355a8]" name="TearDown" is-config="true" duration-ms="3202" started-at="2019-02-22T15:04:54Z" finished-at="2019-02-22T15:04:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestPage.LoginTestpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
